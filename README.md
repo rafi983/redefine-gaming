@@ -54,7 +54,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/redefine-gaming.git
+git clone https://github.com/rafi983/redefine-gaming.git
 cd redefine-gaming
 ```
 
